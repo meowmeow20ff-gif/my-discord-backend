@@ -1,0 +1,16 @@
+{
+  "name": "discord-webhook-server",
+  "version": "1.0.0",
+  "description": "Express server for Discord webhook integration",
+  "main": "script_js.js",
+  "scripts": {
+    "start": "node script_js.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
